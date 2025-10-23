@@ -2,7 +2,7 @@
 
 Este é um mini projeto que cria um servidor HTTP básico utilizando Node.js. Ao acessar o servidor, ele retorna uma página HTML simples com a mensagem "Hello World".
 
-## 🚀 Como executar
+## Como executar
 
 1. Certifique-se de ter o [Node.js](https://nodejs.org/) instalado.
 2. Clone este repositório ou baixe os arquivos.
