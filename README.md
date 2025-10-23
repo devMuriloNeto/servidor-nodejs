@@ -1,4 +1,4 @@
-# <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  /> Primeiro Servidor com Node.js
+# <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"/> Primeiro Servidor com Node.js
 
 Este é um mini projeto que cria um servidor HTTP básico utilizando Node.js. Ao acessar o servidor, ele retorna uma página HTML simples com a mensagem "Hello World".
 
